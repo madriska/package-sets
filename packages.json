@@ -1499,6 +1499,20 @@
     "repo": "https://github.com/purescript-contrib/purescript-react-dom.git",
     "version": "v4.1.0"
   },
+  "react-spaces": {
+    "dependencies": [
+      "console",
+      "exists",
+      "free",
+      "newtype",
+      "prelude",
+      "react",
+      "record",
+      "transformers"
+    ],
+    "repo": "https://github.com/coot/purescript-react-spaces.git",
+    "version": "v1.0.1"
+  },
   "record": {
     "dependencies": [
       "symbols",
