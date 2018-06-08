@@ -205,7 +205,7 @@
       "tuples"
     ],
     "repo": "https://github.com/purescript/purescript-datetime.git",
-    "version": "v4.0.0"
+    "version": "ffdd94fa0c4ac5d89107b0437aece0556970dcef"
   },
   "debug": {
     "dependencies": [
