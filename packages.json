@@ -1122,6 +1122,17 @@
     "repo": "https://github.com/owickstrom/purescript-spec.git",
     "version": "v3.0.0"
   },
+  "spec-discovery": {
+    "dependencies": [
+      "arrays",
+      "effect",
+      "node-fs",
+      "prelude",
+      "spec"
+    ],
+    "repo": "https://github.com/owickstrom/purescript-spec-discovery.git",
+    "version": "a1a8dfd5fadb3f00199d68d20af4bbf56a048c6e"
+  },
   "st": {
     "dependencies": [
       "partial",
