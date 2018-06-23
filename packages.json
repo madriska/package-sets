@@ -138,6 +138,15 @@
     "repo": "https://github.com/purescript/purescript-bifunctors.git",
     "version": "v4.0.0"
   },
+  "bigints": {
+    "dependencies": [
+      "integers",
+      "maybe",
+      "strings"
+    ],
+    "repo": "https://github.com/sharkdp/purescript-bigints.git",
+    "version": "v4.0.0"
+  },
   "catenable-lists": {
     "dependencies": [
       "control",
@@ -319,6 +328,16 @@
     ],
     "repo": "https://github.com/purescript/purescript-exists.git",
     "version": "v4.0.0"
+  },
+  "fixed-precision": {
+    "dependencies": [
+      "integers",
+      "maybe",
+      "bigints",
+      "psci-support"
+    ],
+    "repo": "https://github.com/lumihq/purescript-fixed-precision.git",
+    "version": "v3.0.0"
   },
   "foldable-traversable": {
     "dependencies": [
